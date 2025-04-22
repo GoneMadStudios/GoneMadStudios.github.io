@@ -1,0 +1,16 @@
+{
+"companyName": "Gone Mad Studios",
+"productName": "PopUp",
+"productVersion": "0.1",
+"dataUrl": "PopUp.data.unityweb",
+"wasmCodeUrl": "PopUp.wasm.code.unityweb",
+"wasmFrameworkUrl": "PopUp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
